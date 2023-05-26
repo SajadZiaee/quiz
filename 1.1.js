@@ -28,4 +28,4 @@ function Imperative(arr, callback) {
 
 const newArr2 = Imperative(nums, doubleNumber);
 console.log('IMPERATIVE');
-console.log(newArr);
+console.log(newArr2);
